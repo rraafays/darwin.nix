@@ -30,7 +30,7 @@
       };
 
       NSGlobalDomain = {
-        "com.apple.keyboard.fnState" = true;
+        "com.apple.keyboard.fnState" = false;
         ApplePressAndHoldEnabled = false;
         KeyRepeat = 2;
         InitialKeyRepeat = 12;
