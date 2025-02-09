@@ -78,6 +78,19 @@
         "com.apple.TimeMachine".DoNotOfferNewDisksForBackup = true;
         "com.apple.ImageCapture".disableHotPlug = true;
         "com.doomlaser.cursorcerer".idleHide = 3;
+
+        "com.apple.symbolichotkeys" = {
+          AppleSymbolicHotKeys = {
+            # disable 'cmd + space' for spotlight search
+            "64" = {
+              enabled = false;
+            };
+            # disable 'cmd + opt + space' for finder search
+            "65" = {
+              enabled = false;
+            };
+          };
+        };
       };
     };
   };
