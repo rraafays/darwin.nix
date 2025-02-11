@@ -31,6 +31,7 @@
 
       NSGlobalDomain = {
         "com.apple.keyboard.fnState" = false;
+        "com.apple.sound.beep.feedback" = 1;
         ApplePressAndHoldEnabled = false;
         KeyRepeat = 2;
         InitialKeyRepeat = 12;
