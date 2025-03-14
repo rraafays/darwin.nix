@@ -1,6 +1,5 @@
 { ... }:
 
-#hello
 {
   system = {
     activationScripts.wallpaper.text = ''
