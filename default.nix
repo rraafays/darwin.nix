@@ -37,7 +37,7 @@
         InitialKeyRepeat = 12;
         AppleKeyboardUIMode = 3;
         AppleFontSmoothing = 1;
-        _HIHideMenuBar = true;
+        _HIHideMenuBar = false;
       };
 
       CustomUserPreferences = {
