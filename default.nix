@@ -2,10 +2,6 @@
 
 {
   system = {
-    activationScripts.wallpaper.text = ''
-      osascript -e "tell application \"System Events\" to tell every desktop to set picture to \"/System/Library/Desktop Pictures/Solid Colors/Black.png\" as POSIX file"
-    '';
-
     defaults = {
       SoftwareUpdate.AutomaticallyInstallMacOSUpdates = true;
       loginwindow.GuestEnabled = false;
