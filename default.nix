@@ -31,7 +31,7 @@
         CreateDesktop = false;
         FXEnableExtensionChangeWarning = false;
         FXPreferredViewStyle = "Nlsv";
-        QuitMenuItem = true;
+        QuitMenuItem = false;
         ShowPathbar = true;
         ShowStatusBar = true;
         _FXShowPosixPathInTitle = true;
