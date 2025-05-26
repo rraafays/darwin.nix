@@ -17,6 +17,7 @@
     defaults = {
       SoftwareUpdate.AutomaticallyInstallMacOSUpdates = true;
       loginwindow.GuestEnabled = false;
+      spaces.spans-displays = true;
       dock = {
         autohide = true;
         autohide-delay = 0.0;
